@@ -1,0 +1,31 @@
+body{
+  font-family: system-ui, sans-serif;
+  padding: 0 10rem;
+  margin: 20% 0;
+}
+
+#Progress {
+    width: 100%;    
+    background-color: black;
+    margin: 20px 0;
+}
+  
+#progressBar {
+    width: 1%;
+    height: 40px;
+    background-color: #0040ff;
+    text-align: center;
+    line-height: 40px;
+    color: white;
+    font-weight: bold;
+}
+
+button{
+  cursor: pointer;
+  padding: 8px 16px;
+  border: none;
+  background: black;
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+}
